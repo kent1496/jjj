@@ -13,12 +13,12 @@
 
     <style type="text/css" class="silex-style"></style>
     <script type="text/javascript" class="silex-script"></script>
-    <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1);}.silex-id-1478366444112-1 {top: 100px; background-color: transparent; min-height: 100px;}.silex-id-1478366444112-0 {min-height: 24px; background-color: transparent; top: 0px; left: 0px;}.silex-id-1577030171618-0 {width: 1241px; min-height: 863px; top: 0px; left: 0px;}.silex-id-1474394621033-3 {top: 5px; left: 0px;}.silex-id-1474394621032-2 {min-height: 600px; background-color: transparent; top: 0px; left: -5px;}.silex-id-1478366450713-3 {top: 100px; background-color: transparent;}.silex-id-1478366450713-2 {min-height: 100px; background-color: transparent; width: 1200px;}.silex-id-1442914737143-3 {min-height: 53px; width: 349px; top: 29px; left: 430px;}.silex-id-1577030284605-1 {width: 400px; min-height: 68px; background-color: transparent; top: 97px; left: 400px;}</style>
+    <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1);}.silex-id-1478366444112-1 {top: 100px; background-color: transparent; min-height: 100px;}.silex-id-1478366444112-0 {min-height: 24px; background-color: transparent; top: 0px; left: 0px;}.silex-id-1577030171618-0 {width: 1241px; min-height: 863px; top: 0px; left: 0px;}.silex-id-1474394621033-3 {top: 5px; left: 0px;}.silex-id-1474394621032-2 {min-height: 600px; background-color: transparent; top: 0px; left: -5px;}.silex-id-1577031414943-0 {height: 400px; width: 400px; background-color: transparent; top: 10px; left: 670px;}.silex-id-1478366450713-3 {top: 100px; background-color: transparent;}.silex-id-1478366450713-2 {min-height: 100px; background-color: transparent; width: 1200px;}.silex-id-1442914737143-3 {min-height: 53px; width: 349px; top: 29px; left: 430px;}.silex-id-1577030284605-1 {width: 400px; min-height: 68px; background-color: transparent; top: 97px; left: 400px;}</style>
     <title></title>
-    <script type="text/json" class="silex-json-styles">[{"fonts":[{"family":"'Roboto', sans-serif","href":"https://fonts.googleapis.com/css?family=Roboto"}],"desktop":{"body-initial":{"background-color":"rgba(255,255,255,1)"},"silex-id-1474394621033-3":{"top":"5px","left":"0px"},"silex-id-1474394621032-2":{"min-height":"600px","background-color":"transparent","top":"0px","left":"-5px","height":""},"silex-id-1474394605264-1":{"min-height":"100px","width":"100px","top":"100px","left":"100px"},"silex-id-1474394605263-0":{"min-height":"100px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"53px","width":"349px","top":"29px","left":"430px","height":""},"silex-id-1478366444112-0":{"min-height":"24px","background-color":"transparent","top":"0px","left":"0px","height":""},"silex-id-1478366444112-1":{"top":"100px","background-color":"transparent","min-height":"100px","left":"","height":""},"silex-id-1478366450713-2":{"min-height":"100px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1478366450713-3":{"top":"100px","background-color":"transparent"},"silex-id-1577030171618-0":{"width":"1241px","min-height":"863px","top":"0px","left":"0px"},"silex-id-1577030284605-1":{"width":"400px","min-height":"68px","background-color":"transparent","top":"97px","left":"400px"}},"mobile":{},"prodotypeData":{"component":{"silex-id-1577030284605-1":{"name":"share1","templateName":"share"}},"style":{"all-style":{"className":"all-style","templateName":"text","displayName":"All style","styles":{"desktop":{"normal":{"className":"all-style","pseudoClass":"normal","All":{"font-family":"'Roboto', sans-serif"}}}}}}}}]</script>
+    <script type="text/json" class="silex-json-styles">[{"fonts":[{"family":"'Roboto', sans-serif","href":"https://fonts.googleapis.com/css?family=Roboto"}],"desktop":{"body-initial":{"background-color":"rgba(255,255,255,1)"},"silex-id-1474394621033-3":{"top":"5px","left":"0px"},"silex-id-1474394621032-2":{"min-height":"600px","background-color":"transparent","top":"0px","left":"-5px","height":""},"silex-id-1474394605264-1":{"min-height":"100px","width":"100px","top":"100px","left":"100px"},"silex-id-1474394605263-0":{"min-height":"100px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"53px","width":"349px","top":"29px","left":"430px","height":""},"silex-id-1478366444112-0":{"min-height":"24px","background-color":"transparent","top":"0px","left":"0px","height":""},"silex-id-1478366444112-1":{"top":"100px","background-color":"transparent","min-height":"100px","left":"","height":""},"silex-id-1478366450713-2":{"min-height":"100px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1478366450713-3":{"top":"100px","background-color":"transparent"},"silex-id-1577030171618-0":{"width":"1241px","min-height":"863px","top":"0px","left":"0px"},"silex-id-1577030284605-1":{"width":"400px","min-height":"68px","background-color":"transparent","top":"97px","left":"400px"},"silex-id-1577031414943-0":{"height":"400px","width":"400px","background-color":"transparent","top":"10px","left":"670px"}},"mobile":{},"prodotypeData":{"component":{"silex-id-1577030284605-1":{"name":"share1","templateName":"share"},"silex-id-1577031414943-0":{"name":"map1","templateName":"map"}},"style":{"all-style":{"className":"all-style","templateName":"text","displayName":"All style","styles":{"desktop":{"normal":{"className":"all-style","pseudoClass":"normal","All":{"font-family":"'Roboto', sans-serif"}}}}}}}}]</script>
 
     
-<style class="silex-prodotype-style" type="text/css" data-style-id="all-style">.text-element > .silex-element-content {font-family: 'Roboto', sans-serif;}</style><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="website-width" content="1205"><style type="text/css" class="silex-style-settings">.website-width {width: 1205px;}</style><meta name="hostingProvider" content="ghpages"><meta name="publicationPath" content="{&quot;name&quot;:&quot;gh-pages&quot;,&quot;folder&quot;:&quot;-&quot;,&quot;path&quot;:&quot;-/gh-pages&quot;,&quot;service&quot;:&quot;github&quot;,&quot;url&quot;:&quot;https://kent1496.github.io/-/&quot;}"><!-- Silex HEAD tag do not remove -->
+<style class="silex-prodotype-style" type="text/css" data-style-id="all-style">.text-element > .silex-element-content {font-family: 'Roboto', sans-serif;}</style><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="website-width" content="1205"><style type="text/css" class="silex-style-settings">.website-width {width: 1205px;}</style><meta name="hostingProvider" content="ghpages"><meta name="publicationPath" content="{&quot;name&quot;:&quot;gh-pages&quot;,&quot;folder&quot;:&quot;-&quot;,&quot;path&quot;:&quot;-/gh-pages&quot;,&quot;service&quot;:&quot;github&quot;,&quot;url&quot;:&quot;https://kent1496.github.io/-/&quot;}"><script src="/static/2.7/osm/ol.js" data-silex-static="" data-dependency=""></script><!-- Silex HEAD tag do not remove -->
     <!-- End of Silex HEAD tag do not remove --></head>
 
 <body data-silex-id="body-initial" class="body-initial all-style enable-mobile prevent-draggable prevent-resizable prevent-selectable silex-runtime" data-silex-type="container-element" style="">
@@ -39,7 +39,72 @@
         <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1478366444112-0" style=""></div>
     <div data-silex-type="image-element" class="editable-style silex-id-1577030171618-0 image-element" data-silex-id="silex-id-1577030171618-0" style=""><img src="https://images.unsplash.com/photo-1576933694662-fd6790fe98e9?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjM0Nzl9" class="silex-element-content"></div></div>
     <div data-silex-type="container-element" class="prevent-draggable container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable" data-silex-id="silex-id-1474394621033-3" style="">
-        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1474394621032-2" style=""></div>
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1474394621032-2" style=""><div data-silex-type="html-element" class="editable-style silex-id-1577031414943-0 html-element silex-component silex-component-map silex-use-height-not-minheight silex-element-content-full-height" data-silex-id="silex-id-1577031414943-0" style=""><div class="silex-element-content"><div id="mapdiv_1577031415385_305"><div class="ol-viewport" data-view="3" style="position: relative; overflow: hidden; width: 100%; height: 100%; touch-action: none;"><canvas class="ol-unselectable" width="400" height="400" style="width: 100%; height: 100%; display: block;"></canvas><div class="ol-overlaycontainer"></div><div class="ol-overlaycontainer-stopevent"><div class="ol-zoom ol-unselectable ol-control"><button class="ol-zoom-in" type="button" title="Zoom in">+</button><button class="ol-zoom-out" type="button" title="Zoom out">−</button></div><div class="ol-rotate ol-unselectable ol-control ol-hidden"><button class="ol-rotate-reset" type="button" title="Reset rotation"><span class="ol-compass" style="transform: rotate(0rad);">⇧</span></button></div><div class="ol-attribution ol-unselectable ol-control ol-collapsed"><ul><li style=""><a href="https://openlayers.org/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAHGAAABxgEXwfpGAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAhNQTFRF////AP//AICAgP//AFVVQECA////K1VVSbbbYL/fJ05idsTYJFtbbcjbJllmZszWWMTOIFhoHlNiZszTa9DdUcHNHlNlV8XRIVdiasrUHlZjIVZjaMnVH1RlIFRkH1RkH1ZlasvYasvXVsPQH1VkacnVa8vWIVZjIFRjVMPQa8rXIVVkXsXRsNveIFVkIFZlIVVj3eDeh6GmbMvXH1ZkIFRka8rWbMvXIFVkIFVjIFVkbMvWH1VjbMvWIFVlbcvWIFVla8vVIFVkbMvWbMvVH1VkbMvWIFVlbcvWIFVkbcvVbMvWjNPbIFVkU8LPwMzNIFVkbczWIFVkbsvWbMvXIFVkRnB8bcvW2+TkW8XRIFVkIlZlJVloJlpoKlxrLl9tMmJwOWd0Omh1RXF8TneCT3iDUHiDU8LPVMLPVcLPVcPQVsPPVsPQV8PQWMTQWsTQW8TQXMXSXsXRX4SNX8bSYMfTYcfTYsfTY8jUZcfSZsnUaIqTacrVasrVa8jTa8rWbI2VbMvWbcvWdJObdcvUdszUd8vVeJaee87Yfc3WgJyjhqGnitDYjaarldPZnrK2oNbborW5o9bbo9fbpLa6q9ndrL3ArtndscDDutzfu8fJwN7gwt7gxc/QyuHhy+HizeHi0NfX0+Pj19zb1+Tj2uXk29/e3uLg3+Lh3+bl4uXj4ufl4+fl5Ofl5ufl5ujm5+jmySDnBAAAAFp0Uk5TAAECAgMEBAYHCA0NDg4UGRogIiMmKSssLzU7PkJJT1JTVFliY2hrdHZ3foSFhYeJjY2QkpugqbG1tre5w8zQ09XY3uXn6+zx8vT09vf4+Pj5+fr6/P39/f3+gz7SsAAAAVVJREFUOMtjYKA7EBDnwCPLrObS1BRiLoJLnte6CQy8FLHLCzs2QUG4FjZ5GbcmBDDjxJBXDWxCBrb8aM4zbkIDzpLYnAcE9VXlJSWlZRU13koIeW57mGx5XjoMZEUqwxWYQaQbSzLSkYGfKFSe0QMsX5WbjgY0YS4MBplemI4BdGBW+DQ11eZiymfqQuXZIjqwyadPNoSZ4L+0FVM6e+oGI6g8a9iKNT3o8kVzNkzRg5lgl7p4wyRUL9Yt2jAxVh6mQCogae6GmflI8p0r13VFWTHBQ0rWPW7ahgWVcPm+9cuLoyy4kCJDzCm6d8PSFoh0zvQNC5OjDJhQopPPJqph1doJBUD5tnkbZiUEqaCnB3bTqLTFG1bPn71kw4b+GFdpLElKIzRxxgYgWNYc5SCENVHKeUaltHdXx0dZ8uBI1hJ2UUDgq82CM2MwKeibqAvSO7MCABq0wXEPiqWEAAAAAElFTkSuQmCC"></a></li><li>© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.</li></ul><button type="button" title="Attributions"><span>i</span></button></div></div></div></div>
+<style>#mapdiv_1577031415385_305 {width: 100%; height: 100%;}</style>
+<script>
+
+
+function init_1577031415385_305() {
+    if(!$('body').hasClass('silex-runtime') && typeof(ol) === 'undefined') {
+        // wait for dependencies to be loaded
+        setTimeout(init_1577031415385_305, 100);
+        return;
+    }
+
+    // apply position and zoom
+    // from map URL http://www.openstreetmap.org/#map=18/48.88680/2.34235&layers=C
+    // var params = 'http://www.openstreetmap.org/#map=18/48.87378/2.29489&layers=C'.match(/.*map=([0-9]*)\/(.*)\/(.*)&layers=(.)/);
+    var params = 'http://www.openstreetmap.org/#map=18/48.87378/2.29489&layers=C'.match(/.*map=([0-9]*)\/(.*)\/(.*)/);
+    if(params) {
+        var zoom = parseFloat(params[1]);
+        var lat = parseFloat(params[2]);
+        var lon = parseFloat(params[3]);
+        // var layer = params[4] || 'S';
+        var center = ol.proj.fromLonLat([lon, lat]);
+        var map = new ol.Map({
+          layers: [
+            new ol.layer.Tile({
+              source: new ol.source.OSM()
+            })
+          ],
+          target: 'mapdiv_1577031415385_305',
+          view: new ol.View({
+            center: center,
+            zoom: zoom
+          })
+        });
+        
+        var iconFeature = new ol.Feature({
+            geometry: new ol.geom.Point(center)
+        });
+        var vectorSource = new ol.source.Vector({
+            features: [iconFeature]
+        });
+        var vectorLayer = new ol.layer.Vector({
+            source: vectorSource
+        });
+        var iconStyle = new ol.style.Style({
+            image: new ol.style.Icon(({
+                anchor: [0.5, 1],
+                anchorXUnits: 'fraction',
+                anchorYUnits: 'fraction',
+                opacity: 1,
+                src: 'https://openlayers.org/en/v4.0.1/examples/data/icon.png'
+            }))
+        });
+        iconFeature.setStyle(iconStyle);
+        map.addLayer(vectorLayer);
+        
+    }
+}
+init_1577031415385_305();
+$(document).on('silex.resize', function() {
+    $('#mapdiv_1577031415385_305').empty();
+    init_1577031415385_305();
+});
+
+</script>
+</div></div></div>
     </div>
     <div data-silex-type="container-element" class="prevent-draggable container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" data-silex-id="silex-id-1478366450713-3" style="">
         <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1478366450713-2">
@@ -53,37 +118,37 @@
         <div data-silex-type="html-element" class="editable-style silex-id-1577030284605-1 html-element silex-component silex-component-share" data-silex-id="silex-id-1577030284605-1" style=""><div class="silex-element-content">
 <ul class="share-buttons" id="id_1577030285059_209">
   
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://yoursite.com&amp;t=Your site title" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Facebook.png"></a></li>
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://yoursite.com&amp;t=Your site title" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Facebook.png"></a></li>
   
   
-  <li><a href="https://twitter.com/intent/tweet?source=http://yoursite.com&amp;text=Your site title:%20http://yoursite.com&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Twitter.png"></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=http://yoursite.com&amp;text=Your site title:%20http://yoursite.com&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Twitter.png"></a></li>
   
   
-  <li><a href="https://plus.google.com/share?url=http://yoursite.com" target="_blank" title="Share on Google+"><img alt="Share on Google+" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Google%2B.png"></a></li>
+  <li><a href="https://plus.google.com/share?url=http://yoursite.com" target="_blank" title="Share on Google+"><img alt="Share on Google+" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Google%2B.png"></a></li>
   
   
-  <li><a href="http://www.tumblr.com/share?v=3&amp;u=http://yoursite.com&amp;t=Your site title&amp;s=" target="_blank" title="Post to Tumblr"><img alt="Post to Tumblr" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Tumblr.png"></a></li>
+  <li><a href="http://www.tumblr.com/share?v=3&amp;u=http://yoursite.com&amp;t=Your site title&amp;s=" target="_blank" title="Post to Tumblr"><img alt="Post to Tumblr" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Tumblr.png"></a></li>
   
   
-  <li><a href="http://pinterest.com/pin/create/button/?url=http://yoursite.com&amp;description=Your site description" target="_blank" title="Pin it"><img alt="Pin it" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Pinterest.png"></a></li>
+  <li><a href="http://pinterest.com/pin/create/button/?url=http://yoursite.com&amp;description=Your site description" target="_blank" title="Pin it"><img alt="Pin it" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Pinterest.png"></a></li>
   
   
-  <li><a href="https://getpocket.com/save?url=http://yoursite.com&amp;title=Your site title" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Pocket.png"></a></li>
+  <li><a href="https://getpocket.com/save?url=http://yoursite.com&amp;title=Your site title" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Pocket.png"></a></li>
   
   
-  <li><a href="http://www.reddit.com/submit?url=http://yoursite.com&amp;title=Your site title" target="_blank" title="Submit to Reddit"><img alt="Submit to Reddit" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Reddit.png"></a></li>
+  <li><a href="http://www.reddit.com/submit?url=http://yoursite.com&amp;title=Your site title" target="_blank" title="Submit to Reddit"><img alt="Submit to Reddit" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Reddit.png"></a></li>
   
   
-  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://yoursite.com&amp;title=Your site title&amp;summary=Your site description&amp;source=http://yoursite.com" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/LinkedIn.png"></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://yoursite.com&amp;title=Your site title&amp;summary=Your site description&amp;source=http://yoursite.com" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/LinkedIn.png"></a></li>
   
   
-  <li><a href="http://wordpress.com/press-this.php?u=http://yoursite.com&amp;t=Your site title&amp;s=Your site description" target="_blank" title="Publish on WordPress"><img alt="Publish on WordPress" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Wordpress.png"></a></li>
+  <li><a href="http://wordpress.com/press-this.php?u=http://yoursite.com&amp;t=Your site title&amp;s=Your site description" target="_blank" title="Publish on WordPress"><img alt="Publish on WordPress" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Wordpress.png"></a></li>
   
   
-  <li><a href="https://pinboard.in/popup_login/?url=http://yoursite.com&amp;title=Your site title&amp;description=Your site description" target="_blank" title="Save to Pinboard"><img alt="Save to Pinboard" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Pinboard.png"></a></li>
+  <li><a href="https://pinboard.in/popup_login/?url=http://yoursite.com&amp;title=Your site title&amp;description=Your site description" target="_blank" title="Save to Pinboard"><img alt="Save to Pinboard" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Pinboard.png"></a></li>
   
   
-  <li><a href="mailto:?subject=Your site title&amp;body=Your site description:%20http://yoursite.com" target="_blank" title="Send email"><img alt="Send by email" data-silex-static="" src="/static/2.7/simplesharingbuttons/flat_web_icon_set/color/Email.png"></a></li>
+  <li><a href="mailto:?subject=Your site title&amp;body=Your site description:%20http://yoursite.com" target="_blank" title="Send email"><img alt="Send by email" data-silex-static="" src="https://editor.silex.me/static/2.10/simplesharingbuttons/flat_web_icon_set/color/Email.png"></a></li>
   
 </ul>
 
